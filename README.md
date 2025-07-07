@@ -12,7 +12,7 @@ The analysis uses real-world freight and traffic data from TxDOT and the Federal
 
 ## 📊 Interactive Dashboard
 
-👉 **[View Final Dashboard on Tableau Public](https://public.tableau.com/app/profile/kirollos.fargallah/viz/freight_bottleneck_analysis/RecommendedFreightModebyDistanceBandTexas)**  
+👉 **[View Final Dashboard on Tableau Public](https://public.tableau.com/app/profile/kirollos.fargallah/viz/freight_bottleneck_analysis/TexasFreightBottleneckAnalysisRouteOptimization)**  
 This dashboard visualizes freight mode recommendations by distance band across Texas.
 
 ---
